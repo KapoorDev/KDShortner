@@ -23,7 +23,7 @@ echo "\n$yellow
 "Url Shortener";
 echo $blue."
 Author  : KapoorDev
-Contributer : SpeedX
+Contributer : SpeedX & cvar1984
 Github  : http://github.com/KapoorDev
 Version : 0.1 ( Final )\n";
 echo $red."=========================== KapoorDev ))=====(@)>".$green."\n";
